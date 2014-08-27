@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title>Recent Content on IOOS Test Docs Site Using Hugo </title>
+      <title>Posts on IOOS Test Docs Site Using Hugo </title>
       <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>http://duncombe.github.io/index.xml</link>
+    <link>http://duncombe.github.io/posts/index.xml</link>
     <language>en-us</language>
     
     
@@ -36,20 +36,6 @@
 &lt;p&gt;Hugo told me to create this file but not what to do with it.&lt;/p&gt;
 
 &lt;p&gt;Hugo seems slick in parts but is a real irritation to run in windows (ATM).&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>about</title>
-      <link>http://duncombe.github.io/about</link>
-      <pubDate>Wed, 27 Aug 2014 02:26:00 UTC</pubDate>
-      
-      <guid>http://duncombe.github.io/about</guid>
-      <description>
-
-&lt;h2 id=&#34;toc_0&#34;&gt;Headline&lt;/h2&gt;
-
-&lt;p&gt;Some content&lt;/p&gt;
 </description>
     </item>
     
