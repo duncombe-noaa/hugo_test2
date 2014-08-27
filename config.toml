@@ -1,0 +1,9 @@
+baseurl = "http://duncombe.github.io/hugo_test"
+languageCode = "en-us"
+title = "IOOS Test Docs Site Using Hugo"
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+[indexes]
+    category = "categories"
+
