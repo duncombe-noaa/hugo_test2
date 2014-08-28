@@ -1,9 +1,13 @@
-baseurl = "http://duncombe.github.io/hugo_test"
+baseurl = "http://duncombe.github.io/hugo_test2"
 languageCode = "en-us"
-title = "IOOS Test Docs Site Using Hugo"
+Title = "IOOS DMAC (Hugo Test Site)"
 contentdir = "content"
 layoutdir = "layouts"
 publishdir = "public"
 [indexes]
     category = "categories"
+[params]
+ Description = "SOS Milestone 1.0 Documentation"
+ Copyright = "(C) 2014 U.S. IOOS. Some rights reserved"
+ 
 
