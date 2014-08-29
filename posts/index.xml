@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title>Posts on IOOS Test Docs Site Using Hugo </title>
+      <title>Posts on IOOS DMAC (Hugo Test Site) </title>
       <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>http://duncombe.github.io/posts/index.xml</link>
+    <link>http://duncombe-noaa.github.io/posts/index.xml</link>
     <language>en-us</language>
     
     
@@ -11,10 +11,10 @@
     
     <item>
       <title>second</title>
-      <link>http://duncombe.github.io/posts/second</link>
+      <link>http://duncombe-noaa.github.io/posts/second</link>
       <pubDate>Wed, 27 Aug 2014 16:06:54 UTC</pubDate>
       
-      <guid>http://duncombe.github.io/posts/second</guid>
+      <guid>http://duncombe-noaa.github.io/posts/second</guid>
       <description>
 
 &lt;h2 id=&#34;toc_0&#34;&gt;A new file&lt;/h2&gt;
@@ -25,10 +25,10 @@
     
     <item>
       <title>first</title>
-      <link>http://duncombe.github.io/posts/first</link>
+      <link>http://duncombe-noaa.github.io/posts/first</link>
       <pubDate>Wed, 27 Aug 2014 02:46:54 UTC</pubDate>
       
-      <guid>http://duncombe.github.io/posts/first</guid>
+      <guid>http://duncombe-noaa.github.io/posts/first</guid>
       <description>
 
 &lt;h2 id=&#34;toc_0&#34;&gt;Headline: What to do&lt;/h2&gt;
