@@ -1,9 +1,7 @@
 +++
-draft = true
 title = "About this site"
 date = 2014-08-27T02:26:00Z
 weight = "-500"
-draft = false
 +++
 
 ## Headline

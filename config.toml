@@ -1,4 +1,4 @@
-baseurl = "http://duncombe.github.io/hugo_test2"
+baseurl = "http://duncombe-noaa.github.io/hugo_test2"
 languageCode = "en-us"
 Title = "IOOS DMAC (Hugo Test Site)"
 contentdir = "content"
