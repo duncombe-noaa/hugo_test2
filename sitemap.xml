@@ -2,33 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://duncombe-noaa.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2014-08-27T02:26:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://duncombe-noaa.github.io/about</loc>
+    <loc>http://localhost:1313/about</loc>
     <lastmod>2014-08-27T02:26:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://duncombe-noaa.github.io/testing</loc>
+    <loc>http://localhost:1313/testing</loc>
     <lastmod>2014-08-04T08:10:23+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://duncombe-noaa.github.io/posts/second</loc>
-    <lastmod>2014-08-27T16:06:54+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://duncombe-noaa.github.io/posts/first</loc>
-    <lastmod>2014-08-27T02:46:54+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://duncombe-noaa.github.io/sos_wsdd_github_notoc</loc>
+    <loc>http://localhost:1313/sos_wsdd_github_notoc</loc>
     <lastmod>2014-08-04T08:09:56+00:00</lastmod>
   </url>
   
